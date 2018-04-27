@@ -1,0 +1,30 @@
+{
+  "name": "vue-sticky-bottom",
+  "version": "0.0.1",
+  "description": "Sticky bottom element with Vue.js",
+  "main": "dist/vue-sticky-bottom.js",
+  "scripts": {
+    "build": "webpack --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguingand/vue-sticky-bottom.git"
+  },
+  "keywords": [
+    "vue",
+    "sticky"
+  ],
+  "author": "Antoine Guingand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguingand/vue-sticky-bottom/issues"
+  },
+  "homepage": "https://github.com/aguingand/vue-sticky-bottom#readme",
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
+  },
+  "devDependencies": {
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.15"
+  }
+}
