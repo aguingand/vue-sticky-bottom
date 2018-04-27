@@ -4,7 +4,7 @@
   "description": "Sticky bottom element with Vue.js",
   "main": "dist/vue-sticky-bottom.js",
   "scripts": {
-    "build": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    "build": "cross-env node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
   "repository": {
     "type": "git",
