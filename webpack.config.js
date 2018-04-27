@@ -6,5 +6,6 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'),
         filename: 'vue-sticky-bottom.js',
         library: 'vueStickyBottom',
+        libraryTarget: 'umd'
     }
 };
