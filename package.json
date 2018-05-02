@@ -1,6 +1,6 @@
 {
   "name": "vue-sticky-bottom",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Sticky bottom element with Vue.js",
   "main": "dist/vue-sticky-bottom.js",
   "scripts": {
